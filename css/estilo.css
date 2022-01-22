@@ -54,6 +54,7 @@ body {
 
 #conteudo-instagram a:link, #conteudo-instagram a:visited, #conteudo-instagram a:hover {
 	color: black;
+	text-decoration: none;
 }
 
 .postagem-lateral {
