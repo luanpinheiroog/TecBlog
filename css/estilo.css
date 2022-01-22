@@ -52,6 +52,10 @@ body {
 	margin-bottom: 20px;
 }
 
+#conteudo-instagram a:link, #conteudo-instagram a:visited, #conteudo-instagram a:hover {
+	color: black;
+}
+
 .postagem-lateral {
 	font-size: 0.8em;
 	padding: 5px;
